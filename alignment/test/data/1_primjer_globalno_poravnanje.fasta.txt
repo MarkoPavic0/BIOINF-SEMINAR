@@ -1,0 +1,4 @@
+>seq1
+GTACC
+>seq2
+GATACGTTA
